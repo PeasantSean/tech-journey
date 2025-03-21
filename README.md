@@ -3,8 +3,8 @@ This repository documents my journey from working a dead-end job to becoming a c
 Each project folder contains setup notes, troubleshooting logs, and key takeaways.  
 
 ## Projects
-- [Simple Ubuntu Server Setup](link)
-- [Network Mapping](link)
+- [Simple Ubuntu Server Setup](https://github.com/PeasantSean/UbuntuSSH)
+- [Network Mapping](https://github.com/PeasantSean/Network-Mapping)
 
 ## Skills Covered So Far...
 - Linux & Bash
